@@ -1,0 +1,35 @@
+.login {
+  width: 500px;
+  margin-top: 140px;
+  text-align: center;
+}
+
+.input-login {
+  margin-top: 40px;
+}
+
+.login p {
+  color: rgb(252, 188, 188);
+  font-size: 14px;
+  text-align: left;
+}
+
+.login h2 {
+  color: white;
+  font-size: 18px;
+  text-align: end;
+  cursor: pointer;
+}
+
+.input-password {
+  position: relative;
+}
+
+.show-pass {
+  position: absolute;
+  top: 18px;
+  right: 15px;
+  font-size: 24px;
+  cursor: pointer;
+  color: rgb(70, 69, 69);
+}

@@ -1,0 +1,42 @@
+.todo-list {
+  text-align: center;
+  width: 500px;
+  margin-top: 50px;
+}
+
+.todo-list-info {
+  margin-top: 40px;
+}
+
+.todo-list h2 {
+  margin-top: 40px;
+  color: white;
+  font-size: 27px;
+  font-weight: 500;
+}
+
+.coret {
+  text-decoration: line-through;
+}
+
+.disableEdit {
+  display: none;
+}
+
+.todo-list h3 {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  color: white;
+  text-decoration: none;
+  background-color: rgb(31, 59, 141);
+  padding: 5px 10px;
+  border-radius: 10px;
+  transition: 0.1s;
+}
+
+.todo-list h3:hover {
+  color: rgb(31, 59, 141);
+  background: white;
+  border: 1px solid rgb(31, 59, 141);
+}

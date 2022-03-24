@@ -1,0 +1,38 @@
+.sign-up {
+  text-align: center;
+  width: 500px;
+  margin-top: 70px;
+}
+
+.input-sign {
+  margin-top: 30px;
+}
+
+.sign-up h2 {
+  font-size: 18px;
+  text-align: end;
+  color: white;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.input-name {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.first-name input {
+  width: 240px;
+}
+
+.last-name input {
+  width: 240px;
+}
+
+.sign-up p {
+  color: rgb(252, 188, 188);
+  font-size: 15px;
+  text-align: left;
+}
